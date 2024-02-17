@@ -2,9 +2,18 @@
 # Beyond Literal Descriptions: Understanding and Locating Open-World Objects Aligned with Human Intentions
 Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jing Liu
 
-<h4 align="center"> <a href="https://rubics-xuan.github.io/MRES/" align="center"> [Project page] </a> | <a href="https://arxiv.org/abs/2312.08007" align="center"> [Our Paper] </a> </h4>
+<p align="center">
+ <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project_Page-Adaptive_FSS-Green' alt='Paper PDF'></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Arxiv-Adaptive_FSS-red' alt='Project Page'></a> <a href=''><img src='https://badges.aleen42.com/src/youtube.svg'> </a>
+</p>
 
-The repository contains the official code and data of our paper "Beyond Literal Descriptions: Understanding and Locating Open-World Objects Aligned with Human Intentions". <a href='https://arxiv.org/abs/2312.08007'><img src='https://img.shields.io/badge/ArXiv-2312.08007-red'></a>
+## 🚩 **Updates**
+Welcome to **watch** 👀 this repository for the latest updates.
+
+✅ **[2023.12.25]** : Released project page.
+
+✅ **[2023.12.26]** : We have released our paper on Arxiv.
+
+✅ **[2024.1.7]** : Released code.
 
 ## 🌕 Abstract
 Visual grounding (VG) aims at locating the foreground entities that match the given natural language expression. Previous datasets and methods for classic VG task mainly rely on the prior assumption that the given expression must literally refer to the target object, which greatly impedes the practical deployment of agents in real-world scenarios. Since users usually prefer to provide the intention-based expressions for the desired object instead of covering all the details, it is necessary for the agents to interpret the intention-driven instructions. Thus, in this work, we take a step further to the intention-driven visual-language (V-L) understanding. To promote classic VG towards human intention interpretation, we propose a new intention-driven visual grounding (IVG) task and build a largest-scale IVG dataset named IntentionVG with free-form intention expressions. Considering that practical agents need to move and find specific targets among various scenarios to realize the grounding task, our IVG task and IntentionVG dataset have taken the crucial properties of both multi-scenario perception and egocentric view into consideration. Besides, various types of models are set up as the baselines to realize our IVG task. Extensive experiments on our IntentionVG dataset and baselines demonstrate the necessity and efficacy of our method for the V-L field. To foster future research in this direction, our newly built dataset and baselines will be publicly available.
