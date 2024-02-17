@@ -3,7 +3,7 @@
 Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jing Liu
 
 <p align="center">
- <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project Page-IVG-Green' width="15%"></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Paper on arXiv-IVG-red' width="18%"></a>
+ <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project Page-IVG-Green' width="16%"></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Paper on arXiv-IVG-red' width="18%"></a>
 </p>
 
 ## 🚩 **Updates**
