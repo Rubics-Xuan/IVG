@@ -1,15 +1,14 @@
 
 # Beyond Literal Descriptions: Understanding and Locating Open-World Objects Aligned with Human Intentions
 Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jing Liu
-
 <p align="center">
- <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project Page-IVG-Green' width="16%"></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Paper on arXiv-IVG-red' width="18%"></a>
+ <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Paper on arXiv-IVG-red' width="18%"></a>
 </p>
 
 ## 🚩 **Updates**
 Welcome to this repository for the latest updates.
 
-✅ **[2024.2.17]** : Released project page and our paper on arXiv.
+✅ **[2024.2.17]** : Released our paper on arXiv.
 
  **[ ]** : Released our data and baselines.
 
