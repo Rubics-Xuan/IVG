@@ -9,9 +9,9 @@ Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jin
 ## 🚩 **Updates**
 Welcome to this repository for the latest updates.
 
-✅ **[2024.4.25]** : Released project page and our paper on arXiv.
+✅ **[2024.2.17]** : Released project page and our paper on arXiv.
 
-✅ **[-]** : Released our data and baselines.
+ **[ ]** : Released our data and baselines.
 
 ## 🌕 Abstract
 In this work, we take a step further to the intention-driven visual-language (V-L) understanding. To promote classic VG towards human intention interpretation, we propose a new intention-driven visual grounding (IVG) task and build a largest-scale IVG dataset named IntentionVG with free-form intention expressions. Considering that practical agents need to move and find specific targets among various scenarios to realize the grounding task, our IVG task and IntentionVG dataset have taken the crucial properties of both multi-scenario perception and egocentric view into consideration. Besides, various types of models are set up as the baselines to realize our IVG task. Extensive experiments on our IntentionVG dataset and baselines demonstrate the necessity and efficacy of our method for the V-L field. To foster future research in this direction, our newly built dataset and baselines will be publicly available.
