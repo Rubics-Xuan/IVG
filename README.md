@@ -20,10 +20,10 @@ Visual grounding (VG) aims at locating the foreground entities that match the gi
 
 ## 🌗 Data Generation Engine & IntentionVG Dataset
 <p align="center">
- <img src="Figures/data_collection_engine.png" width="90%">
+ <img src="Figures/data_collection_engine.png" width="75%">
 </p>
 <p align="center">
- <img src="Figures/samples.png" width="70%">
+ <img src="Figures/samples.png" width="80%">
 </p>
 <p align="center">
  <img src="Figures/data_analysis1.png" width="70%">
@@ -32,7 +32,7 @@ Visual grounding (VG) aims at locating the foreground entities that match the gi
  <img src="Figures/data_analysis2.png" width="70%">
 </p>
 <p align="center">
- <img src="Figures/data_analysis3.png" width="70%">
+ <img src="Figures/data_analysis3.png" width="85%">
 </p>
 
 ## 🌘 Baseline Constructions
@@ -42,7 +42,7 @@ Visual grounding (VG) aims at locating the foreground entities that match the gi
 
 ## 🌑 Results
 <p align="center">
- <img src="Figures/IVG.png" width="70%">
+ <img src="Figures/IVG.png" width="80%">
 </p>
 
 ## 🚀 Citation
@@ -59,7 +59,10 @@ If you use our data or model in your work or find it is helpful, please cite the
 
 ## 🏭 Acknowledgement
 This work is built on many excellent research works and open-source projects, thanks a lot to all the authors for sharing!
+
 1.[EVA-CLIP](https://github.com/baaivision/EVA/tree/master/EVA-CLIP)
+
 2.[Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+
 3.[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 
