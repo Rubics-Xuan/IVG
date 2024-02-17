@@ -3,17 +3,15 @@
 Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jing Liu
 
 <p align="center">
- <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project_Page-Adaptive_FSS-Green' alt='Paper PDF'></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Arxiv-Adaptive_FSS-red' alt='Project Page'></a> <a href=''><img src='https://badges.aleen42.com/src/youtube.svg'> </a>
+ <a href='https://jingw193.github.io/AdaptiveFSS/'><img src='https://img.shields.io/badge/Project_Page-IVG-Green' alt='Paper PDF'></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/Arxiv-IVG-red' alt='Project Page'>
 </p>
 
 ## 🚩 **Updates**
-Welcome to **watch** 👀 this repository for the latest updates.
+Welcome to this repository for the latest updates.
 
-✅ **[2023.12.25]** : Released project page.
+✅ **[2024.4.25]** : Released project page and our paper on arXiv.
 
-✅ **[2023.12.26]** : We have released our paper on Arxiv.
-
-✅ **[2024.1.7]** : Released code.
+✅ **[-]** : Released our data and baselines.
 
 ## 🌕 Abstract
 Visual grounding (VG) aims at locating the foreground entities that match the given natural language expression. Previous datasets and methods for classic VG task mainly rely on the prior assumption that the given expression must literally refer to the target object, which greatly impedes the practical deployment of agents in real-world scenarios. Since users usually prefer to provide the intention-based expressions for the desired object instead of covering all the details, it is necessary for the agents to interpret the intention-driven instructions. Thus, in this work, we take a step further to the intention-driven visual-language (V-L) understanding. To promote classic VG towards human intention interpretation, we propose a new intention-driven visual grounding (IVG) task and build a largest-scale IVG dataset named IntentionVG with free-form intention expressions. Considering that practical agents need to move and find specific targets among various scenarios to realize the grounding task, our IVG task and IntentionVG dataset have taken the crucial properties of both multi-scenario perception and egocentric view into consideration. Besides, various types of models are set up as the baselines to realize our IVG task. Extensive experiments on our IntentionVG dataset and baselines demonstrate the necessity and efficacy of our method for the V-L field. To foster future research in this direction, our newly built dataset and baselines will be publicly available.
