@@ -25,7 +25,7 @@ Visual grounding (VG) aims at locating the foreground entities that match the gi
  <img src="Figures/task_definition.png" width="80%">
 </p>
 
-## 🌗 Data Generation Engine & IntentionVG Dataset
+## 🌗 Data Collection Engine & IntentionVG Dataset
 <p align="center">
  <img src="Figures/data_collection_engine.png" width="75%">
 </p>
