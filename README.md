@@ -33,10 +33,10 @@ Visual grounding (VG) aims at locating the foreground entities that match the gi
  <img src="Figures/samples.png" width="80%">
 </p>
 <p align="center">
- <img src="Figures/data_analysis1.png" width="70%">
+ <img src="Figures/data_analysis1.png" width="60%">
 </p>
 <p align="center">
- <img src="Figures/data_analysis2.png" width="70%">
+ <img src="Figures/data_analysis2.png" width="60%">
 </p>
 <p align="center">
  <img src="Figures/data_analysis3.png" width="85%">
