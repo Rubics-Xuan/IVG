@@ -3,7 +3,7 @@
 Wenxuan Wang, Yisi Zhang, Xingjian He, Yichen Yan, Zijia Zhao, Xinlong Wang, Jing Liu
 
 <p align="center">
- <a href='https://Rubics-Xuan.github.io/IVG/'><img src='https://img.shields.io/badge/Project_Page-Green' alt='Paper PDF'></a> <a href='https://arxiv.org/pdf/2312.15731.pdf'><img src='https://img.shields.io/badge/arXiv_Paper-red' alt='Project Page'></a> <a href=''><img src='https://badges.aleen42.com/src/youtube.svg'> </a>
+ <a href=''><img src='https://img.shields.io/badge/Project_Page-Green' alt='Paper PDF'></a> <a href='https://arxiv.org/abs/2402.11265'><img src='https://img.shields.io/badge/arXiv_Paper-red' alt='Project Page'></a> <a href=''><img src='https://badges.aleen42.com/src/youtube.svg'> </a>
 </p>
 
 ## 🚩 **Updates**
@@ -56,11 +56,11 @@ In this work, we take a step further to the intention-driven visual-language (V-
 If you use our data or model in your work or find it is helpful, please cite the corresponding paper:
 
 ```
-@article{wang2023unveiling,
+@article{wang2024beyond,
   title={Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation},
-  author={Wang, Wenxuan and Yue, Tongtian and Zhang, Yisi and Guo, Longteng and He, Xingjian and Wang, Xinlong and Liu, Jing},
-  journal={arXiv preprint arXiv:2312.08007},
-  year={2023}
+  author={Wang, Wenxuan and Zhang, Yisi and He, Xingjian and Yan, Yichen and Zhao, Zijia and Wang, Xinlong and Liu, Jing},
+  journal={arXiv preprint arXiv:2402.11265},
+  year={2024}
 }
 ```
 
