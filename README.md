@@ -53,11 +53,11 @@ In this work, we take a step further to the intention-driven visual-language (V-
 </p>
 
 ## 🚀 Citation
-If you use our data or model in your work or find it is helpful, please cite the corresponding paper:
+If you use our data or baseline model in your work or find it is helpful, please cite the corresponding paper:
 
 ```
 @article{wang2024beyond,
-  title={Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation},
+  title={Beyond Literal Descriptions: Understanding and Locating Open-World Objects Aligned with Human Intentions},
   author={Wang, Wenxuan and Zhang, Yisi and He, Xingjian and Yan, Yichen and Zhao, Zijia and Wang, Xinlong and Liu, Jing},
   journal={arXiv preprint arXiv:2402.11265},
   year={2024}
