@@ -11,6 +11,8 @@ Welcome to this repository for the latest updates.
 
 ✅ **[2024.2.17]** : Released our paper on arXiv.
 
+✅ **[2024.5.16]** : Our paper is officially accepted by ACL 2024.
+
  **[ ]** : Released our data and baselines.
 
 ## 🌕 Abstract
